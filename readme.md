@@ -58,4 +58,4 @@ This Chrome extension, powered by Flask, PyTorch, HTML, CSS, and JavaScript, aim
 
 ## License
 
-This project is licensed under the unlicense - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details.
